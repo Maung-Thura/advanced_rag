@@ -1,0 +1,9 @@
+*.pdf
+*.pem
+/.idea/advanced_rag_team_triad.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/workspace.xml

@@ -1,0 +1,8 @@
+bs4
+requests
+boto3
+pandas
+langchain
+pdfplumber
+sentence_transformers
+pymongo

@@ -1,0 +1,96 @@
+ji24a.pdf
+Can you show pictorially comparison of convergence rate GMM fitting on a 50-dimensional dataset?
+----------------------------------------
+ahmadi24a.pdf
+How does Gradient-weighted Class Activation Mapping is used for Enhancing Image Classification by Improving Model Explanations?
+
+ali24a.pdf
+What is the motivation behind Degree-based stratification of nodes in Graph Neural Networks?
+
+alquabeh24a.pdf
+Can you explain online stratified sampling in Variance Reduced Online Gradient Descent for Kernelized Pairwise Learning with Limited Memory?
+
+anjani24a.pdf
+Briefly describe the results and discussion in Tree delineation with reduced dimensions using entropy and deep learning?
+
+arulkumaran24a.pdf
+How were the experiments conducted in A Pragmatic Look at Deep Imitation Learning? 
+spelling changed!! behaviour > behavior
+
+
+------------------------------------------
+demir24a.pdf
+What is the Optimization Algorithm in Optimal Nonlinearities Improve Generalization Performance of Random Features? 
+
+li24a.pdf
+Briefly describe the implementation details of FusionU-Net.
+
+kessler24a.pdf
+What are Protein-Protein Interactions in Cross-Domain Relation Adaptation experiments?
+
+cevikalp24a.pdf
+Explain open and closed set recognition experiments briefly.
+
+arulkumaran24a.pdf
+What are AIRL and GAIL?
+
+anderson95a.pdf
+What are the three CLASP add-on modules which are useful? -- incorrect answer
+How can the Clips be defined? -- LLM asked back to clarify what I mean by "Clips"?
+Can you describe the excerpt from sample interaction with CLASP? -- incorrect answer
+Please explain CLIP experiment short and simple.
+Can you explain alligator clips?
+
+# Seems encoding issue
+Test Tro Samples > Test Two Samples
+
+
+yao24a.pdf
+What is EGAT model?
+
+
+fang24a.pdf
+Please explain CIFAR-10.
+What are two orthogonal combination methods?
+
+
+henka24a.pdf
+Please explain toy experiment. -- incorrect answer on random 10 research papers
+What is SWMM algorithm? -- incorrect answer
+What is Self Weighted Multiplex Modularity?
+
+
+lee24b.pdf
+Please describe memory usage in CNN Training? -- incorrect answer on 57 research papers
+
+takhanov24a.pdf
+Please define  Empirical Verification relating to Gradient-Based Learning. -- partially correct
+
+
+zhou24a.pdf
+What is Singular Value Decomposition?
+
+
+yao24a.pdf
+Please define UCPool Layer?
+
+
+nioche24a.pdf
+How can Gaussian Processes be used to characterize Model’s Discrepancy? -- seems partially correct for 90 research papers
+
+wu24b.pdf
+What is Neural Tangent Kernel?
+
+sun24a.pdf
+How does patch level and KNN related?
+
+pan24a.pdf
+Which datasets are used for enhancing Model Generalization of Cervical Fluid-Based Cell Detection through Causal Feature Extraction? -- incorrect answer
+What is CDTBS Dataset? -- incorrect answer
+
+mulc24a.pdf
+Please explain contrastive self-supervised learning.
+
+scafarto24a.pdf
+How was INGENIOUS model evaluated?
+What is Continuity in Unsupervised and Inherently Interpretable Graph Embeddings?

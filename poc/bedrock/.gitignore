@@ -1,0 +1,7 @@
+venv
+.idea
+../../../.idea
+corpora/
+embeddings/
+.DS_Store
+global-bundle.pem

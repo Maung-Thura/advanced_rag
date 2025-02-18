@@ -1,0 +1,5 @@
+langflow
+langsmith
+boto3
+pyopenssl
+sentence-transformers
